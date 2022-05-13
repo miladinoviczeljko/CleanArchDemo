@@ -1,4 +1,4 @@
-﻿using CleanArch.Application.Interfaces;
+﻿ using CleanArch.Application.Interfaces;
 using CleanArch.Application.ViewModels;
 using CleanArch.Domain.Commands;
 using CleanArch.Domain.Core.Bus;
